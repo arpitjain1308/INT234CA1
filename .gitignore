@@ -1,0 +1,8 @@
+.vscode/
+
+#Large Folder
+ISL/
+
+#Large Files
+ISL_landmark.csv
+landmarks.csv
